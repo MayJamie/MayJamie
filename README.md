@@ -3,7 +3,6 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fredoka&weight=700&size=40&duration=3000&pause=1000&color=FF3EB7&center=true&vCenter=true&width=680&height=75&lines=Hello,+I'm+Jasmine!+🌺;Creative+Developer+%26+Designer+🎨;Welcome+to+my+GitHub!+💻" alt="Typing SVG" />
   </a>
 </div>
-
 <div align="center">
   <h3>Creative Web Developer | UI/UX Designer | Software Engineer</h3>
   <p>Building sleek, accessible web apps and immersive digital experiences!</p>
