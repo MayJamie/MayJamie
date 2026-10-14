@@ -5,10 +5,6 @@
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,1,2&colors=ff3eb7,fe96e0,fff9fe&height=60&section=header" width="100%" />
-</div>
-
-<div align="center">
   <h3>🌸 Creative Web Developer | UI/UX Designer | Software Engineer 🌸</h3>
   <p>Building sleek, accessible web apps and immersive digital experiences!</p>
 
