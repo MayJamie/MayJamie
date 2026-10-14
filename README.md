@@ -40,7 +40,7 @@ I am <b>Jasmine</b>, a passionate software engineer and UI/UX designer holding a
 | :--- | :--- |
 | **An enchanting, arcade-style game blending playful design with engaging game mechanics.**<br><br>• **What it is:** A fast-paced arcade game built to showcase interactive development and engaging user experiences.<br>• **Tech Stack:** Java. | **A community-driven safety platform mapping local incidents to keep citizens informed in real-time.**<br><br>• **What it is:** A public-safety web application where users report crimes, drop pins on an interactive map, and add descriptions to warn travelers.<br>• **Tech Stack:** React, Map/Location Integration, UI/UX Design. |
 
----
+---🌻
 
 ### 💼 Work Experience
 
@@ -50,5 +50,5 @@ I am <b>Jasmine</b>, a passionate software engineer and UI/UX designer holding a
 ---
 
 <div align="center">
-  <p>💕 Thanks for stopping by! Let's build something amazing together. 💕</p>
+  <p>🌷 Thanks for stopping by! Let's build something amazing together. 🌻</p>
 </div>
