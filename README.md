@@ -1,10 +1,16 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=3%3Aff3eb7%2C2%3Afe96e0%2C1%3Afff9fe&height=180&section=header&text=Hello,%20I'm%20Jasmine!&fontSize=35&fontColor=fff9fe&animation=fadeIn&fontAlignY=38" />
+  <a href="https://github.com/MayJamie">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=FF3EB7&center=true&vCenter=true&width=500&height=80&lines=Hello,+I'm+Jasmine!+🌸;Welcome+to+my+GitHub!+✨;Creative+Developer+%26+Designer+💻" alt="Typing SVG" />
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,1,2&colors=ff3eb7,fe96e0,fff9fe&height=60&section=header" width="100%" />
 </div>
 
 <div align="center">
   <h3>🌸 Creative Web Developer | UI/UX Designer | Software Engineer 🌸</h3>
-  <p>Building sleek, accessible web apps and immersive digital experiences from Trinidad & Tobago! 🇹🇹</p>
+  <p>Building sleek, accessible web apps and immersive digital experiences!</p>
 
   <p>
     <a href="https://github.com/MayJamie?tab=repositories"><img src="https://img.shields.io/badge/Portfolio-Visit%20Site-ff3eb7?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
@@ -16,7 +22,7 @@
 ---
 
 ### ✨ About Me
-I am **Jasmine Dreemurr**, a passionate software engineer and UI/UX designer holding a **Bachelor's degree in Computer Science** with **2+ years of experience** in web design and software/application development. I specialize in bridging the gap between creative visual design and robust technical execution. Whether I am architecting full-stack applications, designing interactive prototypes in Figma, or integrating AI workflows, my core focus is building user-centric, accessible, and high-impact digital solutions.
+I am **Jasmine**, a passionate software engineer and UI/UX designer holding a **Bachelor's degree in Computer Science** with **2+ years of experience** in web design and software/application development. I specialize in bridging the gap between creative visual design and robust technical execution. Whether I am architecting full-stack applications, designing interactive prototypes in Figma, or integrating AI workflows, my core focus is building user-centric, accessible, and high-impact digital solutions.
 
 ---
 
