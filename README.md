@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/MayJamie">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&height=120&background=FF3EB7%2CFE96E0%2CFFF9FE&lines=Hello,+I'm+Jasmine!+🌸;Welcome+to+my+GitHub!+✨;Creative+Developer+%26+Designer+💻" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fredoka&weight=700&size=30&duration=3000&pause=1000&color=FF3EB7&center=true&vCenter=true&width=680&height=75&lines=Hello,+I'm+Jasmine!+🌸;Creative+Developer+%26+Designer+✨;Welcome+to+my+GitHub!+💕" alt="Typing SVG" />
   </a>
 </div>
 
