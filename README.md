@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%20there!%20✨%20I'm%20[Jasmine]&fontSize=35&fontColor=fff&animation=fadeIn&fontAlignY=38" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%20there!%20✨%20I'm%20Jasmine&fontSize=35&fontColor=fff&animation=fadeIn&fontAlignY=38" />
 </div>
 
 <div align="center">
@@ -27,37 +27,32 @@ I am a passionate software engineer and UI/UX designer holding a **Bachelor's de
 | **Frontend & Web** | `React`, `Next.js`, `TypeScript`, `JavaScript`, `HTML5`, `CSS3`, `Material UI` |
 | **Backend & Data** | `Python`, `SQL`, `API Integration`, `Agentic AI Workflows` |
 | **Design & Prototyping** | `Figma`, `Excalidraw`, `Canva`, `Adobe Creative Suite`, `Digital Art Software` |
-| **Development Workflow** | `Git`, `Agile / Scrum`, `Responsive Design`, `Accessibility (a11y) Standards` |
+| **Development Workflow** | `Git`, `Agile / Scrum`, `Responsive Design`, `Accessibility` |
 
 ---
 
 ### 🚀 Featured Projects
 
-#### 🌊 [Fairy Flood]
+#### 🌊 Fairy Flood
 > *An enchanting, arcade-style game blending playful design with engaging game mechanics.*
 * **What it is:** A fast-paced arcade game built to showcase interactive front-end development and engaging user experiences.
 * **Tech Stack:** Java.
 
-#### 🛡️ [SafeZoneTT]
+#### 🛡️ SafeZoneTT
 > *A community-driven safety platform mapping local incidents to keep citizens informed in real-time.*
 * **What it is:** A public-safety web application where users can report crimes, drop pins on an interactive map, and add detailed descriptions to warn travelers and residents who may be heading into affected areas.
 * **Tech Stack:** React, Map/Location Integration, UI/UX Design, State Management.
 
 ---
 
-### 💼 Condensed Experience
+### 💼 Work Experience
 
 * **Application Developer (Full-Stack)** | *I’dEffect Limited* (Sept 2024 – July 2026)
-  * Redesigned and implemented the company’s entire website and modernized a gamified educational platform (Moodle/SQL/JavaScript) which received glowing user feedback.
-  * Deployed an AI-powered career guidance chatbot and engineered a Python-based Agentic AI workflow to automate end-to-end user registration and payment processing.
-  * Conducted nationwide educational and public outreach representing tech initiatives.
 * **Software Designer & Developer (Intern)** | *I’’dEffect Limited* (May 2024 – Sept 2024)
-  * Handled end-to-end UI/UX prototyping (Excalidraw, Figma) and full-stack implementation for a career advancement application (React, Next.js, TypeScript).
-  * Practiced rigorous requirements gathering, agile sprint planning, testing, and documentation.
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=MayJamie&color=ff69b4&style=flat-square&label=Profile+Visits" />
+  <p><img src="https://komarev.com/ghpvc/?username=mayjamie&color=ff69b4&style=flat-square&label=Profile+Visits" alt="Profile Visits" /></p>
   <p>💕 Thanks for stopping by! Let's build something amazing together. 💕</p>
 </div>
