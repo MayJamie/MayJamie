@@ -1,7 +1,11 @@
 <div align="center">
   <a href="https://github.com/MayJamie">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=FF3EB7&center=true&vCenter=true&width=650&height=80&lines=Hello,+I'm+Jasmine!+🌸;Welcome+to+my+GitHub!+✨;Creative+Developer+%26+Designer+💻" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fredoka&weight=700&size=30&duration=3000&pause=1000&color=FF3EB7&center=true&vCenter=true&width=680&height=75&lines=Hello,+I'm+Jasmine+Dreemurr!+🌸;Creative+Developer+%26+Designer+✨;Welcome+to+my+GitHub!+💕" alt="Typing SVG" />
   </a>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,1,2&colors=ff3eb7,fe96e0,fff9fe&height=10&section=header" width="100%" />
 </div>
 
 <div align="center">
