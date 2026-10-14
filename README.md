@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <h3>🌸 Creative Web Developer | UI/UX Designer | Software Engineer 🌸</h3>
+  <h3>Creative Web Developer | UI/UX Designer | Software Engineer</h3>
   <p>Building sleek, accessible web apps and immersive digital experiences!</p>
 
   <p>
