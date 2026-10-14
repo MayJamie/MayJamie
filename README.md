@@ -29,9 +29,9 @@ I am <b>Jasmine</b>, a passionate software engineer and UI/UX designer holding a
 | Category | Technologies & Tools |
 | :--- | :--- |
 | **Frontend & Web** | `React`, `Next.js`, `TypeScript`, `JavaScript`, `HTML5`, `CSS3`, `Material UI` |
-| **Backend & Data** | `Python`, `SQL`, `API Integration`, `Agentic AI Workflows` |
+| **Backend & Data** | `Python`, `SQL`, `API Integration` |
 | **Design & Prototyping** | `Figma`, `Excalidraw`, `Canva`, `Adobe Creative Suite`, `Digital Art Software` |
-| **Development Workflow** | `Git`, `Agile / Scrum`, `Responsive Design`, `Accessibility` |
+| **Development Workflow** | `Git`, `Agile / Scrum`, `Responsive Design`, `Accessibility Standards` |
 
 ---
 
