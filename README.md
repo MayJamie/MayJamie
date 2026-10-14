@@ -18,7 +18,9 @@
 ---
 
 ### ✨ About Me
-I am **Jasmine**, a passionate software engineer and UI/UX designer holding a **Bachelor's degree in Computer Science** with **2+ years of experience** in web design and software/application development. I specialize in bridging the gap between creative visual design and robust technical execution. Whether I am architecting full-stack applications, designing interactive prototypes in Figma, or integrating AI workflows, my core focus is building user-centric, accessible, and high-impact digital solutions.
+<div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 15px; line-height: 1.6;">
+I am <b>Jasmine</b>, a passionate software engineer and UI/UX designer holding a <b>Bachelor's degree in Computer Science</b> with <b>2+ years of experience</b> in web design and software/application development. I specialize in bridging the gap between creative visual design and robust technical execution. Whether I am architecting full-stack applications, designing interactive prototypes in Figma, or integrating AI workflows, my core focus is building user-centric, accessible, and high-impact digital solutions.
+</div>
 
 ---
 
